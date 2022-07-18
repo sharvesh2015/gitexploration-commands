@@ -1,4 +1,6 @@
 Git commands (Bash)
 current working directory - pwd
 list all the files&folders -ls
+return to your previous dir -cd -
+
 
